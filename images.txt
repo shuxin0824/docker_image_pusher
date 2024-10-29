@@ -1,3 +1,4 @@
 #jenkins/jenkins:2.478-jdk17
-zabbix/zabbix-agent:6.0-ubuntu-latest
-linzeyi/hivision_idphotos:v1.2.9
+#zabbix/zabbix-agent:6.0-ubuntu-latest
+#linzeyi/hivision_idphotos:v1.2.9
+markoshust/magento-php:8.2-fpm-4
