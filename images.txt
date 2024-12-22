@@ -2,6 +2,6 @@
 #zabbix/zabbix-agent:6.0-ubuntu-latest
 #linzeyi/hivision_idphotos:v1.2.9
 #markoshust/magento-php:8.2-fpm-4
-php:8.2.26-fpm-alpine
-nginx:1.21-alpine
-mysql:8.0
+#php:8.2.26-fpm-alpine
+#nginx:1.21-alpine
+#mysql:8.0
