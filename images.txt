@@ -5,3 +5,4 @@
 #php:8.2.26-fpm-alpine
 #nginx:1.21-alpine
 #mysql:8.0
+openjdk:8-jre-alpine
