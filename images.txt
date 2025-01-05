@@ -7,4 +7,5 @@
 #mysql:8.0
 #openjdk:8-jre-alpine
 #composer:2.8.4
-php:8.2-fpm
+#php:8.2-fpm
+nginx:1.26.2-alpine
