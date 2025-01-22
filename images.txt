@@ -11,4 +11,4 @@
 #nginx:1.26.2-alpine
 #nginx1.27.3-alpine
 #8.2.27-fpm-alpine
-opensearchproject/opensearch:2.11.1
+opensearchproject/opensearch:2.18.0
