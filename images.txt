@@ -9,5 +9,6 @@
 #composer:2.8.4
 #php:8.2-fpm
 #nginx:1.26.2-alpine
-nginx1.27.3-alpine
-8.2.27-fpm-alpine
+#nginx1.27.3-alpine
+#8.2.27-fpm-alpine
+opensearchproject/opensearch:2.11.1
