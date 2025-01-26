@@ -12,4 +12,5 @@
 #nginx1.27.3-alpine
 #8.2.27-fpm-alpine
 #opensearchproject/opensearch:2.18.0
-mysql:8.0.41
+#mysql:8.0.41
+elasticsearch:7.17.21
