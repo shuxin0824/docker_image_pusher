@@ -19,4 +19,4 @@
 #composer:2.1.9
 #composer:2.2.25
 #influxdb:1.11.8
-alpine:3.18
+alpine:3.19
