@@ -21,3 +21,4 @@
 #influxdb:1.11.8
 #alpine:3.19
 frolvlad/alpine-glibc:alpine-3.19_glibc-2.34
+atmoz/sftp:alpine
