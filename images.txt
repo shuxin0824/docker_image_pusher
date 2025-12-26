@@ -25,3 +25,4 @@ atmoz/sftp:alpine
 atmoz/makepasswd
 atmoz/makepasswd:latest
 node:18.20.8-alpine
+node:20-slim
