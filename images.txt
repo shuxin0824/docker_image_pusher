@@ -26,3 +26,5 @@ atmoz/makepasswd
 atmoz/makepasswd:latest
 node:18.20.8-alpine
 node:20-slim
+python:3.11-slim
+python:3.11
