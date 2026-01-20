@@ -30,3 +30,4 @@ python:3.11-slim
 python:3.11
 tomcat:9.0-jre8
 node:21.7.3-alpine
+nginx:1.29.4-alpine
