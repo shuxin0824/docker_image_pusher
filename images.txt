@@ -31,5 +31,7 @@
 #tomcat:9.0-jre8
 #node:21.7.3-alpine
 #nginx:1.29.4-alpine
-mcr.microsoft.com/dotnet/aspnet:10.0
-mcr.microsoft.com/dotnet/sdk:10.0
+#mcr.microsoft.com/dotnet/aspnet:10.0
+#mcr.microsoft.com/dotnet/sdk:10.0
+mcr.microsoft.com/dotnet/runtime:10.0
+maven:3.8.6-jdk-8
