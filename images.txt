@@ -33,5 +33,7 @@
 #nginx:1.29.4-alpine
 #mcr.microsoft.com/dotnet/aspnet:10.0
 #mcr.microsoft.com/dotnet/sdk:10.0
-mcr.microsoft.com/dotnet/runtime:10.0
-maven:3.8.6-jdk-8
+#mcr.microsoft.com/dotnet/runtime:10.0
+#maven:3.8.6-jdk-8
+curlimages/curl:latest
+curlimages/curl:8.18.0
