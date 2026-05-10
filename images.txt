@@ -45,7 +45,7 @@
 #postgres:16-alpine
 #python:3.12-slim
 #node:20-alpine
-#nginx:alpine
-ghcr.io/dexidp/dex:v2.45.0
-public.ecr.aws/docker/library/redis:8.2.3-alpine
-quay.io/argoproj/argocd:latest
+nginx:alpine
+#ghcr.io/dexidp/dex:v2.45.0
+#public.ecr.aws/docker/library/redis:8.2.3-alpine
+#quay.io/argoproj/argocd:latest
