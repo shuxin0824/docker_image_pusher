@@ -42,7 +42,10 @@
 #rabbitmq:3.13-management-alpine
 #node:18-alpine
 #nginx:1.27-alpine
-postgres:16-alpine
-python:3.12-slim
-node:20-alpine
-nginx:alpine
+#postgres:16-alpine
+#python:3.12-slim
+#node:20-alpine
+#nginx:alpine
+ghcr.io/dexidp/dex:v2.45.0
+public.ecr.aws/docker/library/redis:8.2.3-alpine
+quay.io/argoproj/argocd:latest
